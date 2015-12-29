@@ -1,10 +1,10 @@
-Mumbai, Maharashtra, India
+Awesome Mumbai, Maharashtra, India [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ================================================================================
-This is information about Mumbai, Maharashtra, India. Watch this repo to get notified about changes, especially ranking changes.
+This is a list of awesome people and things in Mumbai, Maharashtra, India. It is inspired by [awesome](https://github.com/sindresorhus/awesome). Currently, it includes the best programmers and projects. Watch this repo to get notified about changes, especially ranking changes.
 
-15 best programmers in Mumbai, Maharashtra, India
+Top 15 programmers in Mumbai, Maharashtra, India
 --------------------------------------------------------------------------------
-These are the 15 most influential programmers out of more than 250 programmers in Mumbai, Maharashtra, India.
+These are the 15 most influential programmers in Mumbai, Maharashtra, India. The score (in parentheses) is computed by combining projects, followers, and other information.
 
 1. slidenerd [@slidenerd](https://github.com/slidenerd) (37)
 2. Manish Goregaokar [@Manishearth](https://github.com/Manishearth) (22)
@@ -22,4 +22,16 @@ These are the 15 most influential programmers out of more than 250 programmers i
 14. Ashish Kulkarni [@ashkulz](https://github.com/ashkulz) (14)
 15. Harshad Sharma [@hiway](https://github.com/hiway) (14)
 
-You can find the comprehensive statistics at the page for [Mumbai, Maharashtra, India](http://programmermap.com/area/mumbai-maharashtra-india) at programmermap.com.
+You can find comprehensive statistics at the page for [Mumbai, Maharashtra, India](http://programmermap.com/area/mumbai-maharashtra-india) at programmermap.com.
+
+5 most popular projects
+--------------------------------------------------------------------------------
+These are the five most popular projects (by stars) from local developers:
+
+1. [calibre](https://github.com/kovidgoyal/calibre) (1285)
+2. [RJImageLoader](https://github.com/rounak/RJImageLoader) (634)
+3. [importd](http://amitu.com/importd/) (407)
+4. [FlipView](http://www.raweng.com) (402)
+5. [CreditCardView](https://github.com/vinaygaba/CreditCardView) (385)
+
+The link is taken from the repository description. If no link is provided there, the repository url is given.
